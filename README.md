@@ -30,6 +30,7 @@ This demonstration does not include vocal synthesis. The system reads a MIDI fil
 
 * `qiskit`: https://qiskit.org/
 * `pytket`: https://cqcl.github.io/tket/pytket/api/
+* 'pytket-extensions': pip install pytket-qiskit
 * `matplotlib`: https://matplotlib.org/
 * `numpy`: https://numpy.org/
 * `mapomatic`: https://github.com/Qiskit-Partners/mapomatic
